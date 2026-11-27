@@ -1,0 +1,3 @@
+apktool_out/
+jadx_out/
+*.log
